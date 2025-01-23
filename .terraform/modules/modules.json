@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"management","Source":"git::https://github.com/karthikTV1234/terraform-datadog-management.git","Dir":".terraform/modules/management"}]}
